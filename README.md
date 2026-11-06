@@ -29,7 +29,6 @@ También disfruto el desarrollo de software y la construcción de sistemas, comb
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-2E5E82?style=for-the-badge&logo=python&logoColor=white)
 
 **Desarrollo de Software**
 
